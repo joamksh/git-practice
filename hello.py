@@ -1,2 +1,3 @@
 print("hellohello")
-pirnt("first hello world, good bye")
+print("first hello world, good bye")
+print("test1, hello")
